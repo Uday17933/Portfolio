@@ -35,6 +35,6 @@ portfolio/
 ├── profile.jpg, icons, resume, etc.
 
 🔗 Live Demo
-(https://github.com/Uday17933/Portfolio/blob/main/README.md)
+(https://uday17933.github.io/Portfolio/)
 
 
