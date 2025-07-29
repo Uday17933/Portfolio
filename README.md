@@ -34,4 +34,7 @@ portfolio/
 ├── images/
 ├── profile.jpg, icons, resume, etc.
 
+🔗 Live Demo
+https://uday17933.github.io/Portfolio/
+
 
